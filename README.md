@@ -5,10 +5,10 @@
 ## General info
 Spacewar! is a space combat video game
 
-path to the sripts: "./DeveloperSpaceWar/Assets/Scripts" 
+path to the scripts: "./DeveloperSpaceWar/Assets/Scripts" 
 
-![Algorithm schema](./images/StartScene.png)
-![Algorithm schema](./images/GameView.png)
+![Algorithm schema](./Images/StartScene.png)
+![Algorithm schema](./Images/GameView.png)
 
 
 ## Technologies
